@@ -1,0 +1,3 @@
+- Hi, I’m @lgtechnik
+- I’m interested in technology and photography
+- I’m currently learning everything, mainly JavaScript
