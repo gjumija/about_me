@@ -1,7 +1,7 @@
-## Hello!
-- Something about me here soon!
+<div align='center'>  
+# Hello!
+I'm mostly creating webpages and working with **PHP**, **SQL** & **JS**
 
 ---
-![Gjumle's github stats](https://github-readme-stats.vercel.app/api?username=gjumle&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjumle&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gjumle&theme=github-dark&hide_border=true&stroke=30363D&dates=8B949E&ring=30363D&fire=DB6D28)
+</div>
